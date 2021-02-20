@@ -1,0 +1,1 @@
+global.player_grid = ds_grid_create(5,5)
